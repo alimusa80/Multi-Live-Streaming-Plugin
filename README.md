@@ -101,101 +101,30 @@ Yes, the plugin is fully responsive and optimized for mobile devices with touch 
 = Can I customize the player appearance? =
 Yes, you can customize colors, themes, logos, and use custom CSS for complete styling control.
 
+<h2>Testimonials</h2>
 
-<!-- Testimonial Section: Live TV Streaming Pro -->
-<section class="py-16 bg-white dark:bg-zinc-900">
-  <div class="mx-auto max-w-6xl px-6">
-    <header class="mb-10 text-center">
-      <h2 class="text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50">
-        Loved by broadcasters, creators, and teams
-      </h2>
-      <p class="mt-3 text-zinc-600 dark:text-zinc-400">
-        Real stories from teams using <span class="font-semibold">Live TV Streaming Pro</span> daily.
-      </p>
-    </header>
+<blockquote>
+  <p>⭐⭐⭐⭐⭐<br>
+  <strong>“As a broadcaster managing hundreds of live channels, stability and scalability are critical. Live TV Streaming Pro exceeded expectations with smooth performance, playlist management, and real-time analytics. It feels enterprise-grade yet simple for our editorial team.”</strong><br>
+  — <strong>Fatima Ali</strong>, CTO, MediaOne Broadcasting</p>
+</blockquote>
 
-    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      <!-- 1: Enterprise Tone -->
-      <article class="group relative rounded-2xl border border-zinc-200/80 bg-white p-6 shadow-sm transition hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/60">
-        <div class="absolute -top-3 right-6 select-none text-5xl text-zinc-200/70 dark:text-zinc-700/60">“</div>
-        <div class="mb-4 flex items-center gap-2" aria-label="Rating: 5 out of 5 stars">
-          <!-- Stars -->
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.46c.967 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.922-.755 1.688-1.538 1.118l-2.8-2.034a1 1 0 00-1.176 0l-2.8 2.034c-.783.57-1.838-.196-1.538-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.88 8.72c-.783-.57-.379-1.81.588-1.81h3.46a1 1 0 00.95-.69l1.07-3.292z"/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M9.049 2.927c..."/></svg>
-          <span class="sr-only">5 out of 5</span>
-        </div>
-        <blockquote class="text-zinc-800 dark:text-zinc-200">
-          <p>
-            “As a broadcaster managing hundreds of live channels, stability and scalability are critical.
-            Live TV Streaming Pro exceeded expectations with smooth performance, playlist management,
-            and real-time analytics. It feels enterprise-grade yet simple for our editorial team.”
-          </p>
-        </blockquote>
-        <footer class="mt-5 flex items-center gap-3">
-          <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="" class="h-10 w-10 rounded-full object-cover ring-2 ring-zinc-200 dark:ring-zinc-800">
-          <div>
-            <div class="font-medium text-zinc-900 dark:text-zinc-100">Fatima Ali</div>
-            <div class="text-sm text-zinc-500 dark:text-zinc-400">CTO, MediaOne Broadcasting</div>
-          </div>
-        </footer>
-      </article>
+<blockquote>
+  <p>⭐⭐⭐⭐⭐<br>
+  <strong>“We wanted to stream our shows without hiring a dev or paying for a custom platform. Live TV Streaming Pro made it easy—upload channels, tweak the player, go live. Viewers love Chromecast and mobile works flawlessly.”</strong><br>
+  — <strong>Jonas Eriksson</strong>, Independent Creator</p>
+</blockquote>
 
-      <!-- 2: Casual Style -->
-      <article class="group relative rounded-2xl border border-zinc-200/80 bg-white p-6 shadow-sm transition hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/60">
-        <div class="absolute -top-3 right-6 select-none text-5xl text-zinc-200/70 dark:text-zinc-700/60">“</div>
-        <div class="mb-4 flex items-center gap-2" aria-label="Rating: 5 out of 5 stars">
-          <!-- 5 stars again (same SVG as above) -->
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c..."/></svg>
-          <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c..."/></svg>
-        </div>
-        <blockquote class="text-zinc-800 dark:text-zinc-200">
-          <p>
-            “We wanted to stream our shows without hiring a dev or paying for a custom platform.
-            Live TV Streaming Pro made it easy—upload channels, tweak the player, go live.
-            Viewers love Chromecast and mobile works flawlessly.”
-          </p>
-        </blockquote>
-        <footer class="mt-5 flex items-center gap-3">
-          <img src="https://i.pravatar.cc/100?img=12" alt="" class="h-10 w-10 rounded-full object-cover ring-2 ring-zinc-200 dark:ring-zinc-800">
-          <div>
-            <div class="font-medium text-zinc-900 dark:text-zinc-100">Jonas Eriksson</div>
-            <div class="text-sm text-zinc-500 dark:text-zinc-400">Independent Creator</div>
-          </div>
-        </footer>
-      </article>
+<blockquote>
+  <p><strong>“Finally, a live streaming plugin that just works. Fast, reliable, and mobile-ready out of the box.”</strong><br>
+  — <strong>Sofia M.</strong>, Education Network Coordinator</p>
+</blockquote>
 
-      <!-- 3: Short Social-Proof -->
-      <article class="group relative rounded-2xl border border-zinc-200/80 bg-white p-6 shadow-sm transition hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900/60">
-        <div class="absolute -top-3 right-6 select-none text-5xl text-zinc-200/70 dark:text-zinc-700/60">“</div>
-        <blockquote class="text-zinc-800 dark:text-zinc-200">
-          <p>“Finally, a live streaming plugin that just works. Fast, reliable, and mobile-ready out of the box.”</p>
-        </blockquote>
-        <footer class="mt-6 flex items-center gap-3">
-          <img src="https://i.pravatar.cc/100?img=32" alt="" class="h-10 w-10 rounded-full object-cover ring-2 ring-zinc-200 dark:ring-zinc-800">
-          <div>
-            <div class="font-medium text-zinc-900 dark:text-zinc-100">Sofia M.</div>
-            <div class="text-sm text-zinc-500 dark:text-zinc-400">Education Network Coordinator</div>
-          </div>
-        </footer>
-      </article>
-    </div>
-
-    <!-- Trust badges / CTA -->
-    <div class="mt-12 flex flex-wrap items-center justify-center gap-4">
-      <span class="inline-flex items-center rounded-full border border-zinc-200 px-3 py-1 text-sm text-zinc-600 dark:border-zinc-800 dark:text-zinc-300">Gutenberg Ready</span>
-      <span class="inline-flex items-center rounded-full border border-zinc-200 px-3 py-1 text-sm text-zinc-600 dark:border-zinc-800 dark:text-zinc-300">Google Cast</span>
-      <span class="inline-flex items-center rounded-full border border-zinc-200 px-3 py-1 text-sm text-zinc-600 dark:border-zinc-800 dark:text-zinc-300">WebRTC</span>
-    </div>
-  </div>
-</section>
-
-
+<p>
+  <img alt="Gutenberg Ready" src="https://img.shields.io/badge/Gutenberg-Ready-0A0A0A?labelColor=000000&logo=wordpress&logoColor=white">
+  <img alt="Google Cast" src="https://img.shields.io/badge/Google%20Cast-Supported-4285F4?logo=googlecast&logoColor=white">
+  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-Enabled-FF6F00?logo=webrtc&logoColor=white">
+</p>
 
 == Screenshots ==
 

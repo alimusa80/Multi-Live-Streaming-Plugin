@@ -1,0 +1,69 @@
+/* Gutenberg Block Editor Styles for Live TV Player */
+
+.live-tv-block-preview {
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.live-tv-block-preview:hover {
+    border-color: #007cba !important;
+    box-shadow: 0 2px 8px rgba(0, 124, 186, 0.2);
+}
+
+.wp-block-live-tv-streaming-player {
+    margin: 1em 0;
+}
+
+/* Inspector Controls Styling */
+.components-panel__body .components-base-control {
+    margin-bottom: 16px;
+}
+
+.components-panel__body .components-base-control:last-child {
+    margin-bottom: 0;
+}
+
+/* Help text styling */
+.components-base-control__help {
+    color: #757575;
+    font-size: 12px;
+    font-style: italic;
+}
+
+/* Block alignment in editor */
+.wp-block-live-tv-streaming-player.alignwide,
+.wp-block-live-tv-streaming-player.alignfull {
+    clear: both;
+}
+
+/* Responsive preview adjustments */
+@media (max-width: 782px) {
+    .live-tv-block-preview {
+        min-height: 200px;
+    }
+}
+
+/* Block icon styling in inserter */
+.wp-block-live-tv-streaming-player .block-editor-block-icon {
+    color: #007cba;
+}
+
+/* Block preview loading state */
+.live-tv-block-preview.loading::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid #fff;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}

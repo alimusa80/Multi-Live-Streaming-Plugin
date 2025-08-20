@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi Live TV Streaming 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: live-tv-streaming.php:154
+msgid "Live TV Channels"
+msgstr ""
+
+#: live-tv-streaming.php:155
+msgid "Live TV"
+msgstr ""
+
+#: live-tv-streaming.php:164
+msgid "Channel Settings"
+msgstr ""
+
+#: live-tv-streaming.php:165
+msgid "Settings"
+msgstr ""
+
+#: live-tv-streaming.php:177
+msgid "Live TV Channels Management"
+msgstr ""
+
+#: live-tv-streaming.php:181
+msgid "Add/Edit Channel"
+msgstr ""
+
+#: live-tv-streaming.php:187
+msgid "Channel Name"
+msgstr ""
+
+#: live-tv-streaming.php:191
+msgid "Description"
+msgstr ""
+
+#: live-tv-streaming.php:195
+msgid "Stream URL"
+msgstr ""
+
+#: live-tv-streaming.php:199
+msgid "Logo URL"
+msgstr ""
+
+#: live-tv-streaming.php:203
+msgid "Category"
+msgstr ""
+
+#: live-tv-streaming.php:206
+msgid "News"
+msgstr ""
+
+#: live-tv-streaming.php:207
+msgid "Sports"
+msgstr ""
+
+#: live-tv-streaming.php:208
+msgid "Entertainment"
+msgstr ""
+
+#: live-tv-streaming.php:209
+msgid "Movies"
+msgstr ""
+
+#: live-tv-streaming.php:210
+msgid "Music"
+msgstr ""
+
+#: live-tv-streaming.php:211
+msgid "Documentary"
+msgstr ""
+
+#: live-tv-streaming.php:212
+msgid "Kids"
+msgstr ""
+
+#: live-tv-streaming.php:213
+msgid "Other"
+msgstr ""
+
+#: live-tv-streaming.php:217
+msgid "Sort Order"
+msgstr ""
+
+#: live-tv-streaming.php:221
+msgid "Active"
+msgstr ""
+
+#: live-tv-streaming.php:226
+msgid "Save Channel"
+msgstr ""
+
+#: live-tv-streaming.php:227
+msgid "Cancel"
+msgstr ""
+
+#: live-tv-streaming.php:232
+msgid "Existing Channels"
+msgstr ""
+
+#: live-tv-streaming.php:404
+msgid "Live TV Settings"
+msgstr ""
+
+#: live-tv-streaming.php:405
+msgid "Settings page for Live TV plugin configuration."
+msgstr ""
+
+#: live-tv-streaming.php:407
+msgid "Usage Instructions"
+msgstr ""
+
+#: live-tv-streaming.php:409
+msgid "Shortcode Usage"
+msgstr ""
+
+#: live-tv-streaming.php:410
+msgid "Use the following shortcode to display the live TV player:"
+msgstr ""
+
+#: live-tv-streaming.php:413
+msgid "Additional Parameters"
+msgstr ""
+
+#: live-tv-streaming.php:415
+msgid "Custom dimensions"
+msgstr ""
+
+#: live-tv-streaming.php:416
+msgid "Show only specific category"
+msgstr ""
+
+#: live-tv-streaming.php:417
+msgid "Enable autoplay"
+msgstr ""
+
+#: live-tv-streaming.php:452
+msgid "Available Channels"
+msgstr ""
+
+#: live-tv-streaming.php:498
+#: live-tv-streaming.php:547
+msgid "Insufficient permissions"
+msgstr ""
+
+#: live-tv-streaming.php:522
+msgid "Channel saved successfully"
+msgstr ""
+
+#: live-tv-streaming.php:524
+msgid "Failed to save channel"
+msgstr ""
+
+#: live-tv-streaming.php:555
+msgid "Channel deleted successfully"
+msgstr ""
+
+#: live-tv-streaming.php:557
+msgid "Failed to delete channel"
+msgstr ""
